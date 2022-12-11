@@ -19,7 +19,7 @@ We are organizing Bangkok's first ever open-source hackathon! We aim to bring op
 
 This is an open-source hackathon, so the organizing process will also be completely open! We aim to make our organizing and planning assets open-source.
 
-# Co-organizing contributors, communities and partners
+# Our contributors, communities and partners
 
 This hackathon is co-organized in collaboration with the following contributors, communities and partners.
 
