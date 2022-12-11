@@ -19,6 +19,8 @@ We are organizing Bangkok's first ever open-source hackathon! We aim to bring op
 
 This is an open-source hackathon, so the organizing process will also be completely open! We aim to make our organizing and planning assets open-source.
 
+Please visit the [CONTRIBUTING.md](CONTRIBUTING.md) file to start contributing to the Bangkok Open Source Hackathon! Everyone is welcome to contribute.
+
 # Communities & Partners
 
 This hackathon is co-organized in collaboration with the following organizing communities and partners.
@@ -41,3 +43,7 @@ Thank you to these wonderful people for contributing!
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+# Code of Conduct
+
+Refer to [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
