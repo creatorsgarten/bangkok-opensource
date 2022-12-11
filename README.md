@@ -21,7 +21,7 @@ This is an open-source hackathon, so the organizing process will also be complet
 
 # Co-organizing contributors, communities and partners
 
-This hackathon is co-organized in collaboration with the following communities and partners.
+This hackathon is co-organized in collaboration with the following contributors, communities and partners.
 
 - [Creatorsgarten](https://creatorsgarten.org)
 - [Thai Programmer Association](https://www.thaiprogrammer.org)
