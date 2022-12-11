@@ -16,6 +16,7 @@
 	"devDependencies": {
 		"@playwright/test": "^1.28.1",
 		"@sveltejs/adapter-auto": "next",
+		"@sveltejs/adapter-cloudflare": "1.0.0-next.41",
 		"@sveltejs/kit": "next",
 		"@typescript-eslint/eslint-plugin": "^5.45.0",
 		"@typescript-eslint/parser": "^5.45.0",

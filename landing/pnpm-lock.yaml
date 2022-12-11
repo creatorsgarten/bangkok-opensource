@@ -3,6 +3,7 @@ lockfileVersion: 5.4
 specifiers:
   '@playwright/test': ^1.28.1
   '@sveltejs/adapter-auto': next
+  '@sveltejs/adapter-cloudflare': 1.0.0-next.41
   '@sveltejs/kit': next
   '@typescript-eslint/eslint-plugin': ^5.45.0
   '@typescript-eslint/parser': ^5.45.0
@@ -21,6 +22,7 @@ specifiers:
 devDependencies:
   '@playwright/test': 1.28.1
   '@sveltejs/adapter-auto': 1.0.0-next.90
+  '@sveltejs/adapter-cloudflare': 1.0.0-next.41
   '@sveltejs/kit': 1.0.0-next.582_svelte@3.54.0+vite@4.0.0
   '@typescript-eslint/eslint-plugin': 5.46.0_5mle7isnkfgjmrghnnczirv6iy
   '@typescript-eslint/parser': 5.46.0_ha6vam6werchizxrnqvarmz2zu
@@ -37,6 +39,10 @@ devDependencies:
   vitest: 0.25.7
 
 packages:
+
+  /@cloudflare/workers-types/4.20221111.1:
+    resolution: {integrity: sha512-BNV2wN8V6Zduvo7UzxcdjBbLQ906D2KhS804PDufLgx/sanGJCHVJMOIaLvS/b61JKtot1U7P/l1fjrjZ7/E3A==}
+    dev: true
 
   /@esbuild/android-arm/0.16.4:
     resolution: {integrity: sha512-rZzb7r22m20S1S7ufIc6DC6W659yxoOrl7sKP1nCYhuvUlnCFHVSbATG4keGUtV8rDz11sRRDbWkvQZpzPaHiw==}
@@ -327,6 +333,14 @@ packages:
     resolution: {integrity: sha512-qxH46Oqqn40998wTmnbffONI0HcW/kiZ3OIjZoysjONne+LU4uEsG425MZ2RHDxmR04zxhsdjCAsn6B4du8D7w==}
     dependencies:
       import-meta-resolve: 2.2.0
+    dev: true
+
+  /@sveltejs/adapter-cloudflare/1.0.0-next.41:
+    resolution: {integrity: sha512-PXUxL/taIOUt4bJMpd8BIhmwm/Q7S/j/4jqMeg41KPjGfNnYxnmcme8trem5QHvN/jjJ+ulSNAjyC3345kG4zg==}
+    dependencies:
+      '@cloudflare/workers-types': 4.20221111.1
+      esbuild: 0.16.4
+      worktop: 0.8.0-next.14
     dev: true
 
   /@sveltejs/kit/1.0.0-next.582_svelte@3.54.0+vite@4.0.0:
@@ -1448,6 +1462,11 @@ packages:
       picomatch: 2.3.1
     dev: true
 
+  /regexparam/2.0.1:
+    resolution: {integrity: sha512-zRgSaYemnNYxUv+/5SeoHI0eJIgTL/A2pUtXUPLHQxUldagouJ9p+K6IbIZ/JiQuCEv2E2B1O11SjVQy3aMCkw==}
+    engines: {node: '>=8'}
+    dev: true
+
   /regexpp/3.2.0:
     resolution: {integrity: sha512-pq2bWo9mVD43nbts2wGv17XLiNLya+GklZ8kaDLV2Z08gDCsGpnKn9BFMepvWuHCbyVvY7J5o5+BVvoQbmlJLg==}
     engines: {node: '>=8'}
@@ -1939,6 +1958,14 @@ packages:
   /word-wrap/1.2.3:
     resolution: {integrity: sha512-Hz/mrNwitNRh/HUAtM/VT/5VH+ygD6DV7mYKZAtHOrbs8U7lvPS6xf7EJKMF0uW1KJCl0H701g3ZGus+muE5vQ==}
     engines: {node: '>=0.10.0'}
+    dev: true
+
+  /worktop/0.8.0-next.14:
+    resolution: {integrity: sha512-RZgqHu1w/JcUdWOE/BUEAzarrUUHh39eWkLdX8XpA6MfgLJF6X5Vl26CV7/wcm4O/UpZvHMGJUtB9eYTqDjc9g==}
+    engines: {node: '>=12'}
+    dependencies:
+      mrmime: 1.0.1
+      regexparam: 2.0.1
     dev: true
 
   /wrappy/1.0.2:
