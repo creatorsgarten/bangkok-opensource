@@ -19,9 +19,9 @@ We are organizing Bangkok's first ever open-source hackathon! We aim to bring op
 
 This is an open-source hackathon, so the organizing process will also be completely open! We aim to make our organizing and planning assets open-source.
 
-# Our contributors, communities and partners
+# Communities and partners
 
-This hackathon is co-organized in collaboration with the following contributors, communities and partners.
+This hackathon is co-organized in collaboration with the following organizing communities and partners.
 
 - [Creatorsgarten](https://creatorsgarten.org)
 - [Thai Programmer Association](https://www.thaiprogrammer.org)
