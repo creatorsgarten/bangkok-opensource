@@ -19,7 +19,7 @@ We are organizing Bangkok's first ever open-source hackathon! We aim to bring op
 
 This is an open-source hackathon, so the organizing process will also be completely open! We aim to make our organizing and planning assets open-source.
 
-# Organizing Communities & Partners
+# Co-organizing Contributors, Communities and Partners
 
 This hackathon is co-organized in collaboration with the following communities and partners.
 
@@ -28,4 +28,3 @@ This hackathon is co-organized in collaboration with the following communities a
 - [Bangkok](https://official.bangkok.go.th)
 - [wonderful.software](https://wonderful.software)
 - [Brikl](https://brikl.com)
-
