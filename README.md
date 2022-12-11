@@ -15,11 +15,11 @@ We are organizing Bangkok's first ever open-source hackathon! We aim to bring op
 - Lunch Meetup #1: To be decided together with the community.
 - Hackathon & Demo Day: To be decided together with the community.
 
-# How to contribute?
+# Contributing
 
 This is an open-source hackathon, so the organizing process will also be completely open! We aim to make our organizing and planning assets open-source.
 
-# Communities and partners
+# Communities & Partners
 
 This hackathon is co-organized in collaboration with the following organizing communities and partners.
 
@@ -29,13 +29,9 @@ This hackathon is co-organized in collaboration with the following organizing co
 - [wonderful.software](https://wonderful.software)
 - [Brikl](https://brikl.com)
 
-# Contributors
+# Contributors ✨
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
-
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+Thank you to these wonderful people for contributing!
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
