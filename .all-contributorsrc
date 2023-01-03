@@ -25,6 +25,15 @@
         "doc",
         "eventOrganizing"
       ]
+    },
+    {
+      "login": "dtinth",
+      "name": "Thai Pangsakulyanont",
+      "avatar_url": "https://avatars.githubusercontent.com/u/193136?v=4",
+      "profile": "https://dt.in.th/",
+      "contributions": [
+        "eventOrganizing"
+      ]
     }
   ],
   "contributorsPerLine": 7,
