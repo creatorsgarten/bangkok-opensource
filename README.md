@@ -53,7 +53,7 @@ Thank you to these wonderful people for contributing!
   <tbody>
     <tr>
       <td align="center"><a href="https://poom.dev"><img src="https://avatars.githubusercontent.com/u/4714175?v=4?s=100" width="100px;" alt="Phoomparin Mano"/><br /><sub><b>Phoomparin Mano</b></sub></a><br /><a href="https://github.com/creatorsgarten/bangkok-opensource/commits?author=heypoom" title="Documentation">📖</a></td>
-      <td align="center"><a href="http://chayapatr.github.io"><img src="https://avatars.githubusercontent.com/u/31594543?v=4?s=100" width="100px;" alt="Chayapatr Archiwaranguprok"/><br /><sub><b>Chayapatr Archiwaranguprok</b></sub></a><br /><a href="https://github.com/creatorsgarten/bangkok-opensource/commits?author=chayapatr" title="Documentation">📖</a></td>
+      <td align="center"><a href="http://chayapatr.github.io"><img src="https://avatars.githubusercontent.com/u/31594543?v=4?s=100" width="100px;" alt="Chayapatr Archiwaranguprok"/><br /><sub><b>Chayapatr Archiwaranguprok</b></sub></a><br /><a href="https://github.com/creatorsgarten/bangkok-opensource/commits?author=chayapatr" title="Documentation">📖</a> <a href="#eventOrganizing-chayapatr" title="Event Organizing">📋</a></td>
     </tr>
   </tbody>
 </table>
