@@ -14,12 +14,21 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "chayapatr",
+      "name": "Chayapatr Archiwaranguprok",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31594543?v=4",
+      "profile": "http://chayapatr.github.io",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "skipCi": true,
   "repoType": "github",
   "repoHost": "https://github.com",
-  "projectName": "bkk-opensource-hackathon",
+  "projectName": "bangkok-opensource",
   "projectOwner": "creatorsgarten"
 }
