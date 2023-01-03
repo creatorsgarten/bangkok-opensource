@@ -44,7 +44,7 @@ Thank you to these wonderful people for contributing!
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://poom.dev"><img src="https://avatars.githubusercontent.com/u/4714175?v=4?s=100" width="100px;" alt="Phoomparin Mano"/><br /><sub><b>Phoomparin Mano</b></sub></a><br /><a href="https://github.com/creatorsgarten/bkk-opensource-hackathon/commits?author=heypoom" title="Documentation">📖</a></td>
+      <td align="center"><a href="https://poom.dev"><img src="https://avatars.githubusercontent.com/u/4714175?v=4?s=100" width="100px;" alt="Phoomparin Mano"/><br /><sub><b>Phoomparin Mano</b></sub></a><br /><a href="https://github.com/creatorsgarten/bangkok-opensource/commits?author=heypoom" title="Documentation">📖</a> <a href="#eventOrganizing-heypoom" title="Event Organizing">📋</a></td>
     </tr>
   </tbody>
 </table>
