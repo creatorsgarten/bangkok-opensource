@@ -1,7 +1,7 @@
 # Bangkok Open Source Initiative
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 We are organizing Bangkok's first ever open-source program to encourage open source contributions in Thailand!
@@ -54,6 +54,7 @@ Thank you to these wonderful people for contributing!
     <tr>
       <td align="center"><a href="https://poom.dev"><img src="https://avatars.githubusercontent.com/u/4714175?v=4?s=100" width="100px;" alt="Phoomparin Mano"/><br /><sub><b>Phoomparin Mano</b></sub></a><br /><a href="https://github.com/creatorsgarten/bangkok-opensource/commits?author=heypoom" title="Documentation">📖</a></td>
       <td align="center"><a href="http://chayapatr.github.io"><img src="https://avatars.githubusercontent.com/u/31594543?v=4?s=100" width="100px;" alt="Chayapatr Archiwaranguprok"/><br /><sub><b>Chayapatr Archiwaranguprok</b></sub></a><br /><a href="https://github.com/creatorsgarten/bangkok-opensource/commits?author=chayapatr" title="Documentation">📖</a></td>
+      <td align="center"><a href="https://dt.in.th/"><img src="https://avatars.githubusercontent.com/u/193136?v=4?s=100" width="100px;" alt="Thai Pangsakulyanont"/><br /><sub><b>Thai Pangsakulyanont</b></sub></a><br /><a href="#financial-dtinth" title="Financial">💵</a></td>
     </tr>
   </tbody>
 </table>
