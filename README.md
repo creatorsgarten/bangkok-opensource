@@ -1,38 +1,56 @@
-# Bangkok Open Source Initiative
+# Bangkok Open Source Hackathon
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-We are organizing Bangkok's first ever open-source program to encourage open source contributions in Thailand!
+We are organizing Bangkok's first ever open-source hackathon to encourage open source contributions in Thailand!
 
 We aim to bring open source contributors, software engineers and domain experts to solve Bangkok's most pressing problems by developing easy-to-contribute open source projects (e.g. tools, libraries and datasets), and helping Bangkokians to contribute to existing open source projects.
 
-Our program consists of a two-month program, with three workshops and a two-day hackathon, from February to March.
+Our goal is to connect open-source contributors from different communities/circles, and foster collaboration and innovation in the open source community.
 
-# Program Schedule
+We'll have 3 workshops for contributors to meet, ideate and prototype on February 19th thru March 12th, then an in-person hackathon on March 25th - 26th!
 
-- Workshop #1 (Kick-off)
+# You are invited! Let's grab a ticket.
 
-  - When: February 18th, 2023
-  - Where: BITEC Bang Na, as part of the National Coding Day.
+We invite you to contribute to open source together in the bangkok open source hackathon! Grab a hackathon ticket by contributing to this repository.
 
-- Workshop #2: TBD
+- Share your suggestions on how to organize the hackathons in [/rfcs](rfcs/)
+- Introduce yourself in [/contributors](contributors/)
+- Providing other meaningful contribution to this repository! Please check out [CONTRIBUTING.md](CONTRIBUTING.md) for our contribution guidelines.
 
-- Workshop #3: TBD
+# Workshop & Hackathon Schedule
 
-- Hackathon & Demo Day
+- Workshop 1: Connecting the Dots
+
+  - When: February 19th, 2023 (9AM - 8PM)
+  - Where: BITEC Bangna at the National Coding Day
+
+- Workshop 2: Urban Problems & Solution
+
+  - When: February 26th, 2023 (10AM - 7PM)
+  - Where: To Be Confirmed
+
+- Workshop 3: Unlocking the Possibilities
+
+  - When: March 12th, 2023 (10AM - 7PM)
+  - Where: To Be Confirmed
+
+- Hackathon Day
 
   - When: March 25th - March 26th, 2023
-  - Where: TBD
+  - Where: To Be Confirmed
 
 # Contributing
 
-This is an open-source program, so the organizing process will also be completely open! We aim to make our organizing and planning assets fully open-source.
+This is an open-source program, so we aim to make our organizing process completely open. We aim to make our organizing and planning assets to be fully open-source.
 
 Please visit the [CONTRIBUTING.md](CONTRIBUTING.md) file to start contributing to the Bangkok Open Source Hackathon! Everyone is welcome to contribute.
 
-# Communities & Partners
+# Our Communities & Partners
 
 This hackathon is co-organized in collaboration with the following organizing communities and partners.
 
@@ -40,7 +58,6 @@ This hackathon is co-organized in collaboration with the following organizing co
 - [Thai Programmer Association](https://www.thaiprogrammer.org)
 - [Bangkok](https://official.bangkok.go.th)
 - [wonderful.software](https://wonderful.software)
-- [Brikl](https://brikl.com)
 
 # Contributors ✨
 
